@@ -1,0 +1,9 @@
+{
+  "geode": "3.0.0",
+  "version": "1.0.0",
+  "id": "creatorhelper",
+  "name": "Creator Helper",
+  "developer": "axelglynton",
+  "description": "A helper mod for creators",
+  "mod-settings": []
+}
